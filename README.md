@@ -8,7 +8,7 @@ Upcoming Software Engineer
 
 *   🌍  I'm based in New York CIty
 *   ✉️  You can contact me at [nhayder9362@gmail.com](mailto:nhayder9362@gmail.com)
-*   🧠  I'm learning Django Framework and React.js### Skills 
+*   🧠  I'm learning Python and Machine Learning Skills 
 <p align="left">
 
                     </p>
